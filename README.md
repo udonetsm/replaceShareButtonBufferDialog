@@ -218,5 +218,5 @@ Add a license of your choice (for example MIT or Apache-2.0) as a `LICENSE` file
 
 ### Благодарности
 
-- LSPosed и Xposed API
+- Vector by JingMatrix и Xposed API
 - AOSP `ClipboardOverlayController` / `ClipboardOverlayView` как эталон поведения
