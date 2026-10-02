@@ -36,6 +36,7 @@ The module hooks the no-argument `setExpandedView()` and, after it returns, call
 - Android 15 based OxygenOS (see "Compatibility" below)
 - Root
 - LSPosed (or a compatible Xposed framework supporting legacy modules, API 82)
+- Tested on Magisk 30.1 + Vactor 2.2 by JingMatrix
 
 ### Installation
 
